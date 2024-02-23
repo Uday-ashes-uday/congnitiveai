@@ -1,0 +1,2 @@
+# congnitiveai
+learning conginitive AI
